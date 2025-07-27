@@ -1,0 +1,14 @@
+# Ignorer tous les fichiers .log
+*.log
+
+# Ignorer un fichier spécifique
+config.ini
+
+# Ignorer le dossier mlruns
+mlruns/
+
+# Ignorer le dossier .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignorer le fichier data.json
+data.json
